@@ -1,6 +1,7 @@
 # worstpractices
 WorstPractices.js -- A library to cause all the problems you didn't know you had
 
+I know the repo should have a hyphen if I wanted to refer to it as WorstPractices and not Worstpractices, but that would be a best practice.
 
 **MISSION**
 
