@@ -1,0 +1,25 @@
+{
+  "name": "worstpractices",
+  "version": "0.0.1",
+  "description": "WorstPractices.js -- A library to cause all the problems you didn't know you had",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2468ben/worstpractices.git"
+  },
+  "keywords": [
+    "worst",
+    "practices",
+    "agile",
+    "enterprise"
+  ],
+  "author": "2468ben",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/2468ben/worstpractices/issues"
+  },
+  "homepage": "https://github.com/2468ben/worstpractices#readme"
+}
